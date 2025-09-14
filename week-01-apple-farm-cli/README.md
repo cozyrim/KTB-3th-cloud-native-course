@@ -32,3 +32,6 @@
 ### 프로그램 종료
 프로그램 종료와 함께 각 나무에 대한 스레드도 함께 종료
 ![실행 화면](assets/exit.png)
+
+## 시연 영상
+<video src="assets/demo.mov" controls width="600"></video>
